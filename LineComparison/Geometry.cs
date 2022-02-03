@@ -12,7 +12,7 @@ namespace LineComparison
         int x1, y1, x2, y2;
         public Geometry(int CorX1, int CorY1, int CorX2, int CorY2)
         {
-            this.x1 = CorX1;
+            this.x1 = CorX1; 
             this.x2 = CorX2;
             this.y1 = CorY1;
             this.y2 = CorY2;
