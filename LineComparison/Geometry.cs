@@ -31,7 +31,7 @@ namespace LineComparison
         {
             if (line1 == line2)
             {
-                Console.WriteLine("Line1 is equal to line2");
+                Console.WriteLine(" Line1 is equal to line2 ");
 
             }
             if (line1.CompareTo(line2) > 0)
